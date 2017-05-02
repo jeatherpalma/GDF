@@ -1,0 +1,20 @@
+table{
+margin-left: 33%;
+}
+#iniciarsesion{
+	margin-left: 70%;
+}
+button{
+	border-radius: 15%;
+	font-size: 16px;
+	padding: 5px 5px;
+}
+
+#etiqueta{
+	font-size: 14pt;
+	color: #BE144B;
+}
+
+input{
+	font-size: 14pt;
+}

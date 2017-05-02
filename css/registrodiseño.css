@@ -1,0 +1,23 @@
+button{	background-color:  #BE144B;
+		color: white;
+		font-size: 14px;
+		padding: 5px;
+		display: inline-block;}
+
+#etiqueta{	width: 95px;
+			height: 20px;
+			color: #BE144B;
+			font-size: 14pt;}
+
+input{font-size: 12pt;}
+
+#registrar{
+	margin-left: 80%;
+}
+
+table{margin-left: 28%;}
+
+td{	padding-bottom: 3%;
+	padding-left: 3%;}
+
+
